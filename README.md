@@ -1,4 +1,4 @@
-# Code-Club-Competion-2018
+# Code Club Competion 2018
 
 Hi 
 
