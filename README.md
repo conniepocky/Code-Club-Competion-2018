@@ -1,6 +1,6 @@
 # Code Club Competion 2018
 
-Hi 
+Hi!
 
 Its Adam, Connie, James, Erin, Otega, Lucia, Dexter!
 
